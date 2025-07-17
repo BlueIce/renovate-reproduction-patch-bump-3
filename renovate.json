@@ -1,1 +1,10 @@
-{}
+{
+  "packageRules": [
+    {
+      "matchManagers": ["maven"],
+      "matchUpdateTypes": ["patch"],
+      "groupName": "dependency-patches"
+    }
+  ],
+  "bumpVersion": "patch"
+}
