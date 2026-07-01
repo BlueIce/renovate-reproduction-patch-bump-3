@@ -9,13 +9,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.example.app</groupId>
     <artifactId>my-app</artifactId>
-    <version>1.2.99</version>
+    <version>1.2.100</version>
 
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
-            <version>5.13.2</version>
+            <version>6.1.1</version>
         </dependency>
     </dependencies>
 </project>
